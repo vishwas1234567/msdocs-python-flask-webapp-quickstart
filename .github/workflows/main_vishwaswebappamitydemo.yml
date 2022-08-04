@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'vishwaswebappamitydemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C4BADEA687E474C9723CB0445E7DB69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55D8145EA17D450C821FFF0C8C73C0F9 }}
